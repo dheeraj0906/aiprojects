@@ -1,0 +1,6 @@
+google-genai
+langchain-google-genai
+faiss-cpu
+PyPDF2
+numpy
+python-dotenv
